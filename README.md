@@ -1,7 +1,7 @@
 # Social Media Widget made with Java
 
 # Description:
-Social media Widget with custom UI for most popular social media made NetBeans IDE GUI Builder-Swing . support 6 social media in total.
+Social media Widget with custom UI for most popular social media made with NetBeans IDE GUI Builder - java Swing. Support 6 social media in total.
 * FaceBook 
 * TikTok
 * Twitter
